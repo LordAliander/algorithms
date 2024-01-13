@@ -1,0 +1,12 @@
+Algorithm Implementations by Lord Aliander
+==========================================
+
+SORTING ALGS:
+    The sorting algorithms range from easy to more complex. They work only with integer based arrays.
+    The array has to be in its simplest form, meaning int[]. Every algorithm has it's own class and the
+    list can be sorted by passing it to the *.sort(int[] array) -> int[] method.
+
+SEARCH ALGS:
+    Also the search algorithms range from easy to complex. Every algorithm has it's own class and the object
+    can be searched calling the *.search(int[] array, int target) -> int method. This goes without saying but
+    these algorithms only work on sorted arrays.
