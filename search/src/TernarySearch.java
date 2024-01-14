@@ -1,5 +1,10 @@
-public class TernarySearch {
+/*
+ * Note that ternary search is normally not used for finding elements inside of arrays.
+ * The algorithm is designed to find the minimum and maximum values of an unimodal function.
+ * Nonetheless this application is totally valid and constitutes a version of ternary search.
+ */
 
+public class TernarySearch {
     static int ternarySearch(int[] array, int n, int left, int right) {
         if (left <= right) {
             int mid1 = left + (right - left) / 3;
