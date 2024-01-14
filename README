@@ -10,3 +10,7 @@ SEARCH ALGS:
     Also the search algorithms range from easy to complex. Every algorithm has it's own class and the object
     can be searched calling the *.search(int[] array, int target) -> int method. This goes without saying but
     these algorithms only work on sorted arrays.
+
+DATA COMPRESSION:
+    This is more of a "Coding Adventure" for me. There is no utility for this kind of programs, but I find enjoyment 
+    in trying to solve more complex problems. 
