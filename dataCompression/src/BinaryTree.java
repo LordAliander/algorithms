@@ -1,3 +1,6 @@
+/*
+ * Example usage of my custom Node class.
+ */
 public class BinaryTree {
     Node root;
 
