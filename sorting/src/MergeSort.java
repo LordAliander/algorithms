@@ -39,8 +39,6 @@ public class MergeSort {
     }
 
     static int[] sort(int[] array) {
-
         return divide(array);
-
     }
 }

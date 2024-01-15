@@ -20,7 +20,7 @@ public class Main {
          * SelectionSort
          * MergeSort
          */
-        int[] sorted = QuickSort.sort(new int[]{3, 7, 8, 5, 2, 1, 9, 5, 4});
+        int[] sorted = MergeSort.sort(unsortedArray);
         System.out.println("Sorted: " + Arrays.toString(sorted));
 
     }
